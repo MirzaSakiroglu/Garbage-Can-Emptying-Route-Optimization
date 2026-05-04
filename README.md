@@ -10,7 +10,7 @@ You can modify the container coordinates and vehicle parameters in the `config.p
 The optimization engine follows these core steps:
 1.  **Data Preprocessing:** Cleaning and structuring coordinate data.
 2.  **Distance Matrix Calculation:** Computing the cost/distance between every node.
-3.  **Optimization Loop:** Applying the [Algorithm Name, e.g., Genetic Algorithm / Ant Colony / Simulated Annealing] to find the shortest path.
+3.  **Optimization Loop:** Applying the Djikstra Algorithm to find the shortest path.
 4.  **Results Output:** Generating the optimized route list and performance metrics.
 
 ---
@@ -40,7 +40,7 @@ Efficient waste management is a cornerstone of modern smart cities. This reposit
 *   **Cost Minimization:** Reduces total distance traveled by collection vehicles.
 *   **Algorithmic Optimization:** Implements advanced heuristics/meta-heuristics to solve complex routing constraints.
 *   **Scalability:** Designed to handle varying numbers of collection points and vehicle capacities.
-*   **Visualization:** (Optional: Mention if you have mapping/plotting features) Clear visual representation of the calculated routes.
+*   **Visualization:**  Clear visual representation of the calculated routes.
 
 ---
 
