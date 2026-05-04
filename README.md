@@ -6,7 +6,7 @@ You can modify the container coordinates and vehicle parameters in the `config.p
 
 ---
 
-## ## How It Works
+## How It Works
 The optimization engine follows these core steps:
 1.  **Data Preprocessing:** Cleaning and structuring coordinate data.
 2.  **Distance Matrix Calculation:** Computing the cost/distance between every node.
@@ -15,7 +15,7 @@ The optimization engine follows these core steps:
 
 ---
 
-## ## Contributing
+## Contributing
 Contributions are welcome! If you have ideas for improving the algorithm or adding new features:
 1.  Fork the Project.
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
@@ -23,10 +23,10 @@ Contributions are welcome! If you have ideas for improving the algorithm or addi
 4.  Push to the Branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
-## ## License
+## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## ## Contact
+## Contact
 **Mirza Şakiroğlu** - [GitHub Profile](https://github.com/MirzaSakiroglu)  
 Project Link: [https://github.com/MirzaSakiroglu/Garbage-Can-Emptying-Route-Optimization](https://github.com/MirzaSakiroglu/Garbage-Can-Emptying-Route-Optimization)
 
@@ -36,7 +36,7 @@ Project Link: [https://github.com/MirzaSakiroglu/Garbage-Can-Emptying-Route-Opti
 
 An intelligent route optimization system designed to streamline waste collection processes. This project utilizes mathematical modeling and optimization algorithms to determine the most efficient paths for garbage collection vehicles, reducing fuel consumption, carbon emissions, and operational time.
 
-## ## Project Overview
+## Project Overview
 Efficient waste management is a cornerstone of modern smart cities. This repository provides a computational solution to the **Vehicle Routing Problem (VRP)** specifically applied to urban waste collection. By analyzing the locations of waste containers, the system generates an optimized sequence of stops.
 
 ### Key Features
@@ -47,7 +47,7 @@ Efficient waste management is a cornerstone of modern smart cities. This reposit
 
 ---
 
-## ## Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure you have the following installed:
@@ -70,7 +70,7 @@ Ensure you have the following installed:
 
 ---
 
-## ## Usage
+## Usage
 To run the optimization model, execute the main script:
 ```bash
 python main.py
